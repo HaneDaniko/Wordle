@@ -1,0 +1,50 @@
+Windows version 2.1.0
+
+新增了设置模式
+优化了若干体验
+
+Linux version 2.0
+
+与 Windows 更新同步
+
+Windows version 2.0.0
+
+重写了主框架
+修复了底层逻辑问题
+实现了 2P BATTLE 模式
+实现了 2P COOPERATION 模式
+实现了 Read File 功能
+
+Windows version 1.3.0
+新增词库内容
+添加主页面
+实现了 2P CREATOR 模式
+
+Linux version 1.1
+修复了一些小问题
+整合了 Linux 与 Windows 版本
+添加了 README.md
+
+Linux version 1.0
+移植 wordle 到 Linux 系统
+
+Windows version 1.2.0
+修复了文件打开后读入混乱的问题
+添加了剩余字母提醒
+增加词库内容
+简化词库添加方式
+
+Windows version 1.1.0
+重新编写了文件读取部分，简化了文件读取格式
+新增了保命模式，游戏内可用0打开，随后用任意整数关闭.
+新增了开发者模式，暂不公开.
+
+Windows version 1.0.2
+【补丁版本】
+采用了连续游戏模式，现在你不用重新打开exe了
+部分通过后，猜词部分会部分标绿
+在exe上增加了一些有趣的东西
+
+Windows version 1.0.1
+【补丁版本】
+修复了一些漏洞
